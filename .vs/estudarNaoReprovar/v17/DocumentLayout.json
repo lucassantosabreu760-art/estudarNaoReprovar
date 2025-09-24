@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74EE4415-967E-4C9A-90A8-957DA0ADA950}|estudarNaoReprovar\\estudarNaoReprovar.csproj|c:\\users\\2024202060034\\source\\repos\\estudarnaoreprovar\\estudarnaoreprovar\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EE4415-967E-4C9A-90A8-957DA0ADA950}|estudarNaoReprovar\\estudarNaoReprovar.csproj|solutionrelative:estudarnaoreprovar\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EE4415-967E-4C9A-90A8-957DA0ADA950}|estudarNaoReprovar\\estudarNaoReprovar.csproj|c:\\users\\2024202060034\\source\\repos\\estudarnaoreprovar\\estudarnaoreprovar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EE4415-967E-4C9A-90A8-957DA0ADA950}|estudarNaoReprovar\\estudarNaoReprovar.csproj|solutionrelative:estudarnaoreprovar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\Carro.cs",
+              "RelativeDocumentMoniker": "estudarNaoReprovar\\Carro.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\Carro.cs",
+              "RelativeToolTip": "estudarNaoReprovar\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:00:08.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\Program.cs",
+              "RelativeDocumentMoniker": "estudarNaoReprovar\\Program.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\Program.cs",
+              "RelativeToolTip": "estudarNaoReprovar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T23:58:32.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

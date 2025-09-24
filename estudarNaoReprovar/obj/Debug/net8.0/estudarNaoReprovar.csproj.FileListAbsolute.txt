@@ -1,0 +1,14 @@
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\bin\Debug\net8.0\estudarNaoReprovar.exe
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\bin\Debug\net8.0\estudarNaoReprovar.deps.json
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\bin\Debug\net8.0\estudarNaoReprovar.runtimeconfig.json
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\bin\Debug\net8.0\estudarNaoReprovar.dll
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\bin\Debug\net8.0\estudarNaoReprovar.pdb
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\estudarNaoReprovar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\estudarNaoReprovar.AssemblyInfoInputs.cache
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\estudarNaoReprovar.AssemblyInfo.cs
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\estudarNaoReprovar.csproj.CoreCompileInputs.cache
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\estudarNaoReprovar.dll
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\refint\estudarNaoReprovar.dll
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\estudarNaoReprovar.pdb
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\estudarNaoReprovar.genruntimeconfig.cache
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\ref\estudarNaoReprovar.dll
