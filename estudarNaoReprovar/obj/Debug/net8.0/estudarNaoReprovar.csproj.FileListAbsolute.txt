@@ -12,3 +12,4 @@ C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\De
 C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\estudarNaoReprovar.pdb
 C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\estudarNaoReprovar.genruntimeconfig.cache
 C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\ref\estudarNaoReprovar.dll
+C:\Users\2024202060034\source\repos\estudarNaoReprovar\estudarNaoReprovar\obj\Debug\net8.0\estudarNaoReprovar.sourcelink.json
