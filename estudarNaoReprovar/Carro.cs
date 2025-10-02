@@ -1,6 +1,7 @@
 ﻿using System;
 using System.ComponentModel.Design;
 using System.Globalization;
+using System.Text.RegularExpressions;
 
 public class Carro
 {
@@ -22,6 +23,7 @@ public class Carro
         setchassi(chassi);
         this.chassi = chassi;
         this.placa = placa;
+        setplaca(placa);
         this.renavam = renavam;
         this.modelo = modelo;
         this.id_carro = id_carro;
@@ -42,11 +44,27 @@ public class Carro
     public void setplaca(string placa)
     {
         placa = placa.ToUpper();
-        if (placa != 7);
+
+        if (Char.IsLetter(placa[0]) && Char.IsLetter(placa[1]) && Char.IsLetter(placa[2]) && Char.IsNumber(placa[3]) && (Char.IsNumber(placa[4]) || Char.IsLetter(placa[4])) && Char.IsNumber(placa[5]) && Char.IsNumber(placa[6]))
+        {
+            // A placa é válida e atende a um dos padrões.
+        }
+        else
+        {
+            // A placa é inválida.
+            throw new Exception("PLACA INVÁLIDA. Formatos esperados: ABC-1234 (antiga) ou ABC1D23 (Mercosul).");
+            {
+            
+        
+        }
+        
+        }
+
+        placa = placa;
     }
 
 
-
+    
 
 
 }
