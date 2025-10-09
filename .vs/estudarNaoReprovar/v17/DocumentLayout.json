@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{74EE4415-967E-4C9A-90A8-957DA0ADA950}|estudarNaoReprovar\\estudarNaoReprovar.csproj|solutionrelative:estudarnaoreprovar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{74EE4415-967E-4C9A-90A8-957DA0ADA950}|estudarNaoReprovar\\estudarNaoReprovar.csproj|c:\\users\\2024202060034\\source\\repos\\estudarnaoreprovar\\estudarnaoreprovar\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EE4415-967E-4C9A-90A8-957DA0ADA950}|estudarNaoReprovar\\estudarNaoReprovar.csproj|solutionrelative:estudarnaoreprovar\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74EE4415-967E-4C9A-90A8-957DA0ADA950}|estudarNaoReprovar\\estudarNaoReprovar.csproj|c:\\users\\2024202060034\\source\\repos\\estudarnaoreprovar\\estudarnaoreprovar\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74EE4415-967E-4C9A-90A8-957DA0ADA950}|estudarNaoReprovar\\estudarNaoReprovar.csproj|solutionrelative:estudarnaoreprovar\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contrato.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\contrato.cs",
+              "RelativeDocumentMoniker": "estudarNaoReprovar\\contrato.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\contrato.cs",
+              "RelativeToolTip": "estudarNaoReprovar\\contrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T02:10:17.907Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,7 +65,7 @@
               "RelativeDocumentMoniker": "estudarNaoReprovar\\plano.cs",
               "ToolTip": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\plano.cs",
               "RelativeToolTip": "estudarNaoReprovar\\plano.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T01:46:29.487Z",
               "EditorCaption": ""
@@ -61,14 +78,14 @@
               "RelativeDocumentMoniker": "estudarNaoReprovar\\Program.cs",
               "ToolTip": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\Program.cs",
               "RelativeToolTip": "estudarNaoReprovar\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T23:58:32.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "validar.cs",
               "DocumentMoniker": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\validar.cs",
               "RelativeDocumentMoniker": "estudarNaoReprovar\\validar.cs",
@@ -76,12 +93,11 @@
               "RelativeToolTip": "estudarNaoReprovar\\validar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T00:34:43.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T00:34:43.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "class.cs",
               "DocumentMoniker": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\class.cs",
               "RelativeDocumentMoniker": "estudarNaoReprovar\\class.cs",
@@ -89,12 +105,11 @@
               "RelativeToolTip": "estudarNaoReprovar\\class.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T01:33:34.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T01:33:34.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\Cliente.cs",
               "RelativeDocumentMoniker": "estudarNaoReprovar\\Cliente.cs",
@@ -102,12 +117,11 @@
               "RelativeToolTip": "estudarNaoReprovar\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T00:14:16.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T00:14:16.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\Funcionario.cs",
               "RelativeDocumentMoniker": "estudarNaoReprovar\\Funcionario.cs",
@@ -115,12 +129,11 @@
               "RelativeToolTip": "estudarNaoReprovar\\Funcionario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T00:06:02.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T00:06:02.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\2024202060034\\source\\repos\\estudarNaoReprovar\\estudarNaoReprovar\\Carro.cs",
               "RelativeDocumentMoniker": "estudarNaoReprovar\\Carro.cs",
@@ -128,8 +141,7 @@
               "RelativeToolTip": "estudarNaoReprovar\\Carro.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T00:00:08.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T00:00:08.222Z"
             }
           ]
         }

@@ -1,2 +1,2 @@
 ﻿Plano p = new Plano();
-p._vlrSugerido = -14;
+p.SetvlrSugerido(-14);
