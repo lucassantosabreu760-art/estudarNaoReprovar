@@ -1,3 +1,2 @@
-﻿Cliente c = new Cliente("22222222222");
-Console.WriteLine();
-
+﻿Plano p = new Plano();
+p._vlrSugerido = -14;
